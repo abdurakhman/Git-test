@@ -10,6 +10,7 @@ public class handler extends JFrame {
 	int rez = 0;
 	String op = "";
 	eHandler l = new eHandler();
+	int k;
 	
 	public handler(String s) {
 		super(s);
